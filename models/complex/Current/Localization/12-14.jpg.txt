@@ -1,0 +1,9 @@
+Cloudpoint: 1036
+	                  Loading data	0.0395467s
+	            Recreating model..	6.426e-06s
+	                Detect+extract	0.417355s
+-- Max dist : 1.313731 
+-- Min dist : 0.066249 
+7
+	    Finding matches with model	0.0322766s
+	               Camera location	1.08065s
