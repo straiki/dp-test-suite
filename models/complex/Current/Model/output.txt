@@ -1,0 +1,1874 @@
+Saving filenames..
+=========================== Load Images ===========================
+..................
+ -------------------- extract feature points for all images -------------------
+Detecting KP:  DONE 2.00779s
+Extracting Desc:  DONE 5.32356s
+ ------------------------------------- done -----------------------------------
+------------ Match 12-4.jpg,12-9.jpg ------------
+imgpts1 has 906 points (descriptors 906)
+imgpts2 has 1483 points (descriptors 1483)
+Matching 12-4.jpg:12-9.jpg DONE 0.0294107s
+F keeping 170 / 542
+542 matches before, 170 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.084739s
+------------ Match 12-4.jpg,12-11.jpg ------------
+imgpts1 has 906 points (descriptors 906)
+imgpts2 has 874 points (descriptors 874)
+Matching 12-4.jpg:12-11.jpg DONE 0.0229492s
+F keeping 148 / 451
+451 matches before, 148 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0777834s
+------------ Match 12-4.jpg,12-8.jpg ------------
+imgpts1 has 906 points (descriptors 906)
+imgpts2 has 949 points (descriptors 949)
+Matching 12-4.jpg:12-8.jpg DONE 0.0233211s
+F keeping 147 / 472
+472 matches before, 147 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0796368s
+------------ Match 12-4.jpg,12-13.jpg ------------
+imgpts1 has 906 points (descriptors 906)
+imgpts2 has 939 points (descriptors 939)
+Matching 12-4.jpg:12-13.jpg DONE 0.0240986s
+F keeping 21 / 403
+403 matches before, 21 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0733434s
+------------ Match 12-4.jpg,12-5.jpg ------------
+imgpts1 has 906 points (descriptors 906)
+imgpts2 has 1146 points (descriptors 1146)
+Matching 12-4.jpg:12-5.jpg DONE 0.0255727s
+F keeping 62 / 477
+477 matches before, 62 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0799226s
+------------ Match 12-4.jpg,12-1.jpg ------------
+imgpts1 has 906 points (descriptors 906)
+imgpts2 has 1371 points (descriptors 1371)
+Matching 12-4.jpg:12-1.jpg DONE 0.027473s
+F keeping 353 / 584
+584 matches before, 353 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.00748308s
+------------ Match 12-4.jpg,12-17.jpg ------------
+imgpts1 has 906 points (descriptors 906)
+imgpts2 has 974 points (descriptors 974)
+Matching 12-4.jpg:12-17.jpg DONE 0.0252992s
+F keeping 113 / 429
+429 matches before, 113 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0789332s
+------------ Match 12-4.jpg,12-19.jpg ------------
+imgpts1 has 906 points (descriptors 906)
+imgpts2 has 1325 points (descriptors 1325)
+Matching 12-4.jpg:12-19.jpg DONE 0.0277739s
+F keeping 189 / 487
+487 matches before, 189 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0807346s
+------------ Match 12-4.jpg,12-18.jpg ------------
+imgpts1 has 906 points (descriptors 906)
+imgpts2 has 1146 points (descriptors 1146)
+Matching 12-4.jpg:12-18.jpg DONE 0.026665s
+F keeping 58 / 461
+461 matches before, 58 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0785944s
+------------ Match 12-4.jpg,12-16.jpg ------------
+imgpts1 has 906 points (descriptors 906)
+imgpts2 has 1277 points (descriptors 1277)
+Matching 12-4.jpg:12-16.jpg DONE 0.0272797s
+F keeping 144 / 498
+498 matches before, 144 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0816175s
+------------ Match 12-4.jpg,12-10.jpg ------------
+imgpts1 has 906 points (descriptors 906)
+imgpts2 has 1278 points (descriptors 1278)
+Matching 12-4.jpg:12-10.jpg DONE 0.0268983s
+F keeping 172 / 512
+512 matches before, 172 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0841792s
+------------ Match 12-4.jpg,12-2.jpg ------------
+imgpts1 has 906 points (descriptors 906)
+imgpts2 has 1347 points (descriptors 1347)
+Matching 12-4.jpg:12-2.jpg DONE 0.02711s
+F keeping 354 / 585
+585 matches before, 354 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.00740618s
+------------ Match 12-4.jpg,12-14.jpg ------------
+imgpts1 has 906 points (descriptors 906)
+imgpts2 has 1227 points (descriptors 1227)
+Matching 12-4.jpg:12-14.jpg DONE 0.0271667s
+F keeping 117 / 502
+502 matches before, 117 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0837765s
+------------ Match 12-4.jpg,12-3.jpg ------------
+imgpts1 has 906 points (descriptors 906)
+imgpts2 has 1277 points (descriptors 1277)
+Matching 12-4.jpg:12-3.jpg DONE 0.0270555s
+F keeping 60 / 474
+474 matches before, 60 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0803182s
+------------ Match 12-4.jpg,12-7.jpg ------------
+imgpts1 has 906 points (descriptors 906)
+imgpts2 has 1353 points (descriptors 1353)
+Matching 12-4.jpg:12-7.jpg DONE 0.0266567s
+F keeping 60 / 527
+527 matches before, 60 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0846252s
+------------ Match 12-4.jpg,12-15.jpg ------------
+imgpts1 has 906 points (descriptors 906)
+imgpts2 has 1358 points (descriptors 1358)
+Matching 12-4.jpg:12-15.jpg DONE 0.0281732s
+F keeping 25 / 502
+502 matches before, 25 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.082998s
+------------ Match 12-4.jpg,12-0.jpg ------------
+imgpts1 has 906 points (descriptors 906)
+imgpts2 has 1012 points (descriptors 1012)
+Matching 12-4.jpg:12-0.jpg DONE 0.0250857s
+F keeping 65 / 458
+458 matches before, 65 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0785814s
+------------ Match 12-9.jpg,12-11.jpg ------------
+imgpts1 has 1483 points (descriptors 1483)
+imgpts2 has 874 points (descriptors 874)
+Matching 12-9.jpg:12-11.jpg DONE 0.0332287s
+F keeping 105 / 549
+549 matches before, 105 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0902639s
+------------ Match 12-9.jpg,12-8.jpg ------------
+imgpts1 has 1483 points (descriptors 1483)
+imgpts2 has 949 points (descriptors 949)
+Matching 12-9.jpg:12-8.jpg DONE 0.049374s
+F keeping 83 / 576
+576 matches before, 83 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.11943s
+------------ Match 12-9.jpg,12-13.jpg ------------
+imgpts1 has 1483 points (descriptors 1483)
+imgpts2 has 939 points (descriptors 939)
+Matching 12-9.jpg:12-13.jpg DONE 0.0367852s
+F keeping 48 / 548
+548 matches before, 48 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0873205s
+------------ Match 12-9.jpg,12-5.jpg ------------
+imgpts1 has 1483 points (descriptors 1483)
+imgpts2 has 1146 points (descriptors 1146)
+Matching 12-9.jpg:12-5.jpg DONE 0.039477s
+F keeping 145 / 649
+649 matches before, 145 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0949047s
+------------ Match 12-9.jpg,12-1.jpg ------------
+imgpts1 has 1483 points (descriptors 1483)
+imgpts2 has 1371 points (descriptors 1371)
+Matching 12-9.jpg:12-1.jpg DONE 0.0404276s
+F keeping 226 / 743
+743 matches before, 226 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.104911s
+------------ Match 12-9.jpg,12-17.jpg ------------
+imgpts1 has 1483 points (descriptors 1483)
+imgpts2 has 974 points (descriptors 974)
+Matching 12-9.jpg:12-17.jpg DONE 0.0377212s
+F keeping 86 / 533
+533 matches before, 86 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0889057s
+------------ Match 12-9.jpg,12-19.jpg ------------
+imgpts1 has 1483 points (descriptors 1483)
+imgpts2 has 1325 points (descriptors 1325)
+Matching 12-9.jpg:12-19.jpg DONE 0.0432994s
+F keeping 176 / 699
+699 matches before, 176 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.103214s
+------------ Match 12-9.jpg,12-18.jpg ------------
+imgpts1 has 1483 points (descriptors 1483)
+imgpts2 has 1146 points (descriptors 1146)
+Matching 12-9.jpg:12-18.jpg DONE 0.0378905s
+F keeping 279 / 688
+688 matches before, 279 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.100505s
+------------ Match 12-9.jpg,12-16.jpg ------------
+imgpts1 has 1483 points (descriptors 1483)
+imgpts2 has 1277 points (descriptors 1277)
+Matching 12-9.jpg:12-16.jpg DONE 0.0379357s
+F keeping 94 / 663
+663 matches before, 94 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.104469s
+------------ Match 12-9.jpg,12-10.jpg ------------
+imgpts1 has 1483 points (descriptors 1483)
+imgpts2 has 1278 points (descriptors 1278)
+Matching 12-9.jpg:12-10.jpg DONE 0.0480478s
+F keeping 283 / 743
+743 matches before, 283 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.111301s
+------------ Match 12-9.jpg,12-2.jpg ------------
+imgpts1 has 1483 points (descriptors 1483)
+imgpts2 has 1347 points (descriptors 1347)
+Matching 12-9.jpg:12-2.jpg DONE 0.0401214s
+F keeping 242 / 735
+735 matches before, 242 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.103628s
+------------ Match 12-9.jpg,12-14.jpg ------------
+imgpts1 has 1483 points (descriptors 1483)
+imgpts2 has 1227 points (descriptors 1227)
+Matching 12-9.jpg:12-14.jpg DONE 0.0435053s
+F keeping 58 / 602
+602 matches before, 58 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0957935s
+------------ Match 12-9.jpg,12-3.jpg ------------
+imgpts1 has 1483 points (descriptors 1483)
+imgpts2 has 1277 points (descriptors 1277)
+Matching 12-9.jpg:12-3.jpg DONE 0.0378013s
+F keeping 24 / 613
+613 matches before, 24 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0925775s
+------------ Match 12-9.jpg,12-7.jpg ------------
+imgpts1 has 1483 points (descriptors 1483)
+imgpts2 has 1353 points (descriptors 1353)
+Matching 12-9.jpg:12-7.jpg DONE 0.0395619s
+F keeping 71 / 675
+675 matches before, 71 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.100651s
+------------ Match 12-9.jpg,12-15.jpg ------------
+imgpts1 has 1483 points (descriptors 1483)
+imgpts2 has 1358 points (descriptors 1358)
+Matching 12-9.jpg:12-15.jpg DONE 0.0396742s
+F keeping 26 / 630
+630 matches before, 26 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.094786s
+------------ Match 12-9.jpg,12-0.jpg ------------
+imgpts1 has 1483 points (descriptors 1483)
+imgpts2 has 1012 points (descriptors 1012)
+Matching 12-9.jpg:12-0.jpg DONE 0.0353171s
+F keeping 46 / 583
+583 matches before, 46 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0900639s
+------------ Match 12-11.jpg,12-8.jpg ------------
+imgpts1 has 874 points (descriptors 874)
+imgpts2 has 949 points (descriptors 949)
+Matching 12-11.jpg:12-8.jpg DONE 0.0236616s
+F keeping 111 / 440
+440 matches before, 111 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.076321s
+------------ Match 12-11.jpg,12-13.jpg ------------
+imgpts1 has 874 points (descriptors 874)
+imgpts2 has 939 points (descriptors 939)
+Matching 12-11.jpg:12-13.jpg DONE 0.0231263s
+F keeping 22 / 404
+404 matches before, 22 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0736757s
+------------ Match 12-11.jpg,12-5.jpg ------------
+imgpts1 has 874 points (descriptors 874)
+imgpts2 has 1146 points (descriptors 1146)
+Matching 12-11.jpg:12-5.jpg DONE 0.0253731s
+F keeping 84 / 464
+464 matches before, 84 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0786106s
+------------ Match 12-11.jpg,12-1.jpg ------------
+imgpts1 has 874 points (descriptors 874)
+imgpts2 has 1371 points (descriptors 1371)
+Matching 12-11.jpg:12-1.jpg DONE 0.0284606s
+F keeping 262 / 550
+550 matches before, 262 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.037315s
+------------ Match 12-11.jpg,12-17.jpg ------------
+imgpts1 has 874 points (descriptors 874)
+imgpts2 has 974 points (descriptors 974)
+Matching 12-11.jpg:12-17.jpg DONE 0.0238391s
+F keeping 88 / 413
+413 matches before, 88 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0741247s
+------------ Match 12-11.jpg,12-19.jpg ------------
+imgpts1 has 874 points (descriptors 874)
+imgpts2 has 1325 points (descriptors 1325)
+Matching 12-11.jpg:12-19.jpg DONE 0.0271104s
+F keeping 161 / 509
+509 matches before, 161 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0820017s
+------------ Match 12-11.jpg,12-18.jpg ------------
+imgpts1 has 874 points (descriptors 874)
+imgpts2 has 1146 points (descriptors 1146)
+Matching 12-11.jpg:12-18.jpg DONE 0.0248151s
+F keeping 72 / 465
+465 matches before, 72 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0809209s
+------------ Match 12-11.jpg,12-16.jpg ------------
+imgpts1 has 874 points (descriptors 874)
+imgpts2 has 1277 points (descriptors 1277)
+Matching 12-11.jpg:12-16.jpg DONE 0.0263698s
+F keeping 53 / 467
+467 matches before, 53 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0788536s
+------------ Match 12-11.jpg,12-10.jpg ------------
+imgpts1 has 874 points (descriptors 874)
+imgpts2 has 1278 points (descriptors 1278)
+Matching 12-11.jpg:12-10.jpg DONE 0.0271541s
+F keeping 187 / 526
+526 matches before, 187 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0846862s
+------------ Match 12-11.jpg,12-2.jpg ------------
+imgpts1 has 874 points (descriptors 874)
+imgpts2 has 1347 points (descriptors 1347)
+Matching 12-11.jpg:12-2.jpg DONE 0.0279623s
+F keeping 259 / 536
+536 matches before, 259 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0363785s
+------------ Match 12-11.jpg,12-14.jpg ------------
+imgpts1 has 874 points (descriptors 874)
+imgpts2 has 1227 points (descriptors 1227)
+Matching 12-11.jpg:12-14.jpg DONE 0.026544s
+F keeping 195 / 509
+509 matches before, 195 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0827696s
+------------ Match 12-11.jpg,12-3.jpg ------------
+imgpts1 has 874 points (descriptors 874)
+imgpts2 has 1277 points (descriptors 1277)
+Matching 12-11.jpg:12-3.jpg DONE 0.0264804s
+F keeping 59 / 477
+477 matches before, 59 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.079512s
+------------ Match 12-11.jpg,12-7.jpg ------------
+imgpts1 has 874 points (descriptors 874)
+imgpts2 has 1353 points (descriptors 1353)
+Matching 12-11.jpg:12-7.jpg DONE 0.0273804s
+F keeping 80 / 498
+498 matches before, 80 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0825264s
+------------ Match 12-11.jpg,12-15.jpg ------------
+imgpts1 has 874 points (descriptors 874)
+imgpts2 has 1358 points (descriptors 1358)
+Matching 12-11.jpg:12-15.jpg DONE 0.0278219s
+F keeping 25 / 480
+480 matches before, 25 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0816967s
+------------ Match 12-11.jpg,12-0.jpg ------------
+imgpts1 has 874 points (descriptors 874)
+imgpts2 has 1012 points (descriptors 1012)
+Matching 12-11.jpg:12-0.jpg DONE 0.0240563s
+F keeping 177 / 463
+463 matches before, 177 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.078925s
+------------ Match 12-8.jpg,12-13.jpg ------------
+imgpts1 has 949 points (descriptors 949)
+imgpts2 has 939 points (descriptors 939)
+Matching 12-8.jpg:12-13.jpg DONE 0.0248503s
+F keeping 41 / 434
+434 matches before, 41 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0759612s
+------------ Match 12-8.jpg,12-5.jpg ------------
+imgpts1 has 949 points (descriptors 949)
+imgpts2 has 1146 points (descriptors 1146)
+Matching 12-8.jpg:12-5.jpg DONE 0.0265849s
+F keeping 187 / 517
+517 matches before, 187 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0838572s
+------------ Match 12-8.jpg,12-1.jpg ------------
+imgpts1 has 949 points (descriptors 949)
+imgpts2 has 1371 points (descriptors 1371)
+Matching 12-8.jpg:12-1.jpg DONE 0.028694s
+F keeping 363 / 602
+602 matches before, 363 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0077125s
+------------ Match 12-8.jpg,12-17.jpg ------------
+imgpts1 has 949 points (descriptors 949)
+imgpts2 has 974 points (descriptors 974)
+Matching 12-8.jpg:12-17.jpg DONE 0.0248094s
+F keeping 138 / 497
+497 matches before, 138 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.082321s
+------------ Match 12-8.jpg,12-19.jpg ------------
+imgpts1 has 949 points (descriptors 949)
+imgpts2 has 1325 points (descriptors 1325)
+Matching 12-8.jpg:12-19.jpg DONE 0.0286219s
+F keeping 170 / 519
+519 matches before, 170 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0852368s
+------------ Match 12-8.jpg,12-18.jpg ------------
+imgpts1 has 949 points (descriptors 949)
+imgpts2 has 1146 points (descriptors 1146)
+Matching 12-8.jpg:12-18.jpg DONE 0.0266225s
+F keeping 31 / 462
+462 matches before, 31 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0788404s
+------------ Match 12-8.jpg,12-16.jpg ------------
+imgpts1 has 949 points (descriptors 949)
+imgpts2 has 1277 points (descriptors 1277)
+Matching 12-8.jpg:12-16.jpg DONE 0.0274602s
+F keeping 226 / 574
+574 matches before, 226 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0884364s
+------------ Match 12-8.jpg,12-10.jpg ------------
+imgpts1 has 949 points (descriptors 949)
+imgpts2 has 1278 points (descriptors 1278)
+Matching 12-8.jpg:12-10.jpg DONE 0.028084s
+F keeping 223 / 546
+546 matches before, 223 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0862999s
+------------ Match 12-8.jpg,12-2.jpg ------------
+imgpts1 has 949 points (descriptors 949)
+imgpts2 has 1347 points (descriptors 1347)
+Matching 12-8.jpg:12-2.jpg DONE 0.0290943s
+F keeping 401 / 613
+613 matches before, 401 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0046522s
+------------ Match 12-8.jpg,12-14.jpg ------------
+imgpts1 has 949 points (descriptors 949)
+imgpts2 has 1227 points (descriptors 1227)
+Matching 12-8.jpg:12-14.jpg DONE 0.0277194s
+F keeping 76 / 479
+479 matches before, 76 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0803345s
+------------ Match 12-8.jpg,12-3.jpg ------------
+imgpts1 has 949 points (descriptors 949)
+imgpts2 has 1277 points (descriptors 1277)
+Matching 12-8.jpg:12-3.jpg DONE 0.0280972s
+F keeping 168 / 504
+504 matches before, 168 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0825447s
+------------ Match 12-8.jpg,12-7.jpg ------------
+imgpts1 has 949 points (descriptors 949)
+imgpts2 has 1353 points (descriptors 1353)
+Matching 12-8.jpg:12-7.jpg DONE 0.0288788s
+F keeping 55 / 517
+517 matches before, 55 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0841798s
+------------ Match 12-8.jpg,12-15.jpg ------------
+imgpts1 has 949 points (descriptors 949)
+imgpts2 has 1358 points (descriptors 1358)
+Matching 12-8.jpg:12-15.jpg DONE 0.0295443s
+F keeping 48 / 494
+494 matches before, 48 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.081635s
+------------ Match 12-8.jpg,12-0.jpg ------------
+imgpts1 has 949 points (descriptors 949)
+imgpts2 has 1012 points (descriptors 1012)
+Matching 12-8.jpg:12-0.jpg DONE 0.0252895s
+F keeping 49 / 481
+481 matches before, 49 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0801099s
+------------ Match 12-13.jpg,12-5.jpg ------------
+imgpts1 has 939 points (descriptors 939)
+imgpts2 has 1146 points (descriptors 1146)
+Matching 12-13.jpg:12-5.jpg DONE 0.0262763s
+F keeping 31 / 482
+482 matches before, 31 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0810658s
+------------ Match 12-13.jpg,12-1.jpg ------------
+imgpts1 has 939 points (descriptors 939)
+imgpts2 has 1371 points (descriptors 1371)
+Matching 12-13.jpg:12-1.jpg DONE 0.0281097s
+F keeping 31 / 483
+483 matches before, 31 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0811555s
+------------ Match 12-13.jpg,12-17.jpg ------------
+imgpts1 has 939 points (descriptors 939)
+imgpts2 has 974 points (descriptors 974)
+Matching 12-13.jpg:12-17.jpg DONE 0.0242737s
+F keeping 26 / 404
+404 matches before, 26 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0734464s
+------------ Match 12-13.jpg,12-19.jpg ------------
+imgpts1 has 939 points (descriptors 939)
+imgpts2 has 1325 points (descriptors 1325)
+Matching 12-13.jpg:12-19.jpg DONE 0.0279937s
+F keeping 41 / 503
+503 matches before, 41 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0823392s
+------------ Match 12-13.jpg,12-18.jpg ------------
+imgpts1 has 939 points (descriptors 939)
+imgpts2 has 1146 points (descriptors 1146)
+Matching 12-13.jpg:12-18.jpg DONE 0.0268939s
+F keeping 26 / 480
+480 matches before, 26 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0797778s
+------------ Match 12-13.jpg,12-16.jpg ------------
+imgpts1 has 939 points (descriptors 939)
+imgpts2 has 1277 points (descriptors 1277)
+Matching 12-13.jpg:12-16.jpg DONE 0.0274234s
+F keeping 56 / 512
+512 matches before, 56 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0828085s
+------------ Match 12-13.jpg,12-10.jpg ------------
+imgpts1 has 939 points (descriptors 939)
+imgpts2 has 1278 points (descriptors 1278)
+Matching 12-13.jpg:12-10.jpg DONE 0.0274733s
+F keeping 42 / 499
+499 matches before, 42 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0818863s
+------------ Match 12-13.jpg,12-2.jpg ------------
+imgpts1 has 939 points (descriptors 939)
+imgpts2 has 1347 points (descriptors 1347)
+Matching 12-13.jpg:12-2.jpg DONE 0.0282878s
+F keeping 42 / 483
+483 matches before, 42 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.080341s
+------------ Match 12-13.jpg,12-14.jpg ------------
+imgpts1 has 939 points (descriptors 939)
+imgpts2 has 1227 points (descriptors 1227)
+Matching 12-13.jpg:12-14.jpg DONE 0.027267s
+F keeping 21 / 469
+469 matches before, 21 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0799881s
+------------ Match 12-13.jpg,12-3.jpg ------------
+imgpts1 has 939 points (descriptors 939)
+imgpts2 has 1277 points (descriptors 1277)
+Matching 12-13.jpg:12-3.jpg DONE 0.0275526s
+F keeping 26 / 472
+472 matches before, 26 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0795296s
+------------ Match 12-13.jpg,12-7.jpg ------------
+imgpts1 has 939 points (descriptors 939)
+imgpts2 has 1353 points (descriptors 1353)
+Matching 12-13.jpg:12-7.jpg DONE 0.0281604s
+F keeping 22 / 511
+511 matches before, 22 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0841233s
+------------ Match 12-13.jpg,12-15.jpg ------------
+imgpts1 has 939 points (descriptors 939)
+imgpts2 has 1358 points (descriptors 1358)
+Matching 12-13.jpg:12-15.jpg DONE 0.0287114s
+F keeping 21 / 505
+505 matches before, 21 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0828746s
+------------ Match 12-13.jpg,12-0.jpg ------------
+imgpts1 has 939 points (descriptors 939)
+imgpts2 has 1012 points (descriptors 1012)
+Matching 12-13.jpg:12-0.jpg DONE 0.0248891s
+F keeping 20 / 467
+467 matches before, 20 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0795425s
+------------ Match 12-5.jpg,12-1.jpg ------------
+imgpts1 has 1146 points (descriptors 1146)
+imgpts2 has 1371 points (descriptors 1371)
+Matching 12-5.jpg:12-1.jpg DONE 0.033549s
+F keeping 161 / 654
+654 matches before, 161 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0962042s
+------------ Match 12-5.jpg,12-17.jpg ------------
+imgpts1 has 1146 points (descriptors 1146)
+imgpts2 has 974 points (descriptors 974)
+Matching 12-5.jpg:12-17.jpg DONE 0.0285457s
+F keeping 94 / 497
+497 matches before, 94 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0824126s
+------------ Match 12-5.jpg,12-19.jpg ------------
+imgpts1 has 1146 points (descriptors 1146)
+imgpts2 has 1325 points (descriptors 1325)
+Matching 12-5.jpg:12-19.jpg DONE 0.0322286s
+F keeping 98 / 581
+581 matches before, 98 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0890866s
+------------ Match 12-5.jpg,12-18.jpg ------------
+imgpts1 has 1146 points (descriptors 1146)
+imgpts2 has 1146 points (descriptors 1146)
+Matching 12-5.jpg:12-18.jpg DONE 0.0302087s
+F keeping 48 / 548
+548 matches before, 48 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0860209s
+------------ Match 12-5.jpg,12-16.jpg ------------
+imgpts1 has 1146 points (descriptors 1146)
+imgpts2 has 1277 points (descriptors 1277)
+Matching 12-5.jpg:12-16.jpg DONE 0.0312662s
+F keeping 76 / 596
+596 matches before, 76 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0904941s
+------------ Match 12-5.jpg,12-10.jpg ------------
+imgpts1 has 1146 points (descriptors 1146)
+imgpts2 has 1278 points (descriptors 1278)
+Matching 12-5.jpg:12-10.jpg DONE 0.031609s
+F keeping 117 / 611
+611 matches before, 117 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0928517s
+------------ Match 12-5.jpg,12-2.jpg ------------
+imgpts1 has 1146 points (descriptors 1146)
+imgpts2 has 1347 points (descriptors 1347)
+Matching 12-5.jpg:12-2.jpg DONE 0.0331278s
+F keeping 160 / 637
+637 matches before, 160 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0949402s
+------------ Match 12-5.jpg,12-14.jpg ------------
+imgpts1 has 1146 points (descriptors 1146)
+imgpts2 has 1227 points (descriptors 1227)
+Matching 12-5.jpg:12-14.jpg DONE 0.0310266s
+F keeping 22 / 533
+533 matches before, 22 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.085978s
+------------ Match 12-5.jpg,12-3.jpg ------------
+imgpts1 has 1146 points (descriptors 1146)
+imgpts2 has 1277 points (descriptors 1277)
+Matching 12-5.jpg:12-3.jpg DONE 0.032154s
+F keeping 38 / 572
+572 matches before, 38 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0883517s
+------------ Match 12-5.jpg,12-7.jpg ------------
+imgpts1 has 1146 points (descriptors 1146)
+imgpts2 has 1353 points (descriptors 1353)
+Matching 12-5.jpg:12-7.jpg DONE 0.0321146s
+F keeping 65 / 616
+616 matches before, 65 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0924622s
+------------ Match 12-5.jpg,12-15.jpg ------------
+imgpts1 has 1146 points (descriptors 1146)
+imgpts2 has 1358 points (descriptors 1358)
+Matching 12-5.jpg:12-15.jpg DONE 0.0322978s
+F keeping 25 / 592
+592 matches before, 25 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0913364s
+------------ Match 12-5.jpg,12-0.jpg ------------
+imgpts1 has 1146 points (descriptors 1146)
+imgpts2 has 1012 points (descriptors 1012)
+Matching 12-5.jpg:12-0.jpg DONE 0.0286252s
+F keeping 51 / 540
+540 matches before, 51 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0863146s
+------------ Match 12-1.jpg,12-17.jpg ------------
+imgpts1 has 1371 points (descriptors 1371)
+imgpts2 has 974 points (descriptors 974)
+Matching 12-1.jpg:12-17.jpg DONE 0.0332353s
+F keeping 203 / 560
+560 matches before, 203 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0874036s
+------------ Match 12-1.jpg,12-19.jpg ------------
+imgpts1 has 1371 points (descriptors 1371)
+imgpts2 has 1325 points (descriptors 1325)
+Matching 12-1.jpg:12-19.jpg DONE 0.0363652s
+F keeping 277 / 692
+692 matches before, 277 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0984046s
+------------ Match 12-1.jpg,12-18.jpg ------------
+imgpts1 has 1371 points (descriptors 1371)
+imgpts2 has 1146 points (descriptors 1146)
+Matching 12-1.jpg:12-18.jpg DONE 0.0339397s
+F keeping 59 / 604
+604 matches before, 59 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0916974s
+------------ Match 12-1.jpg,12-16.jpg ------------
+imgpts1 has 1371 points (descriptors 1371)
+imgpts2 has 1277 points (descriptors 1277)
+Matching 12-1.jpg:12-16.jpg DONE 0.035697s
+F keeping 215 / 693
+693 matches before, 215 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.100042s
+------------ Match 12-1.jpg,12-10.jpg ------------
+imgpts1 has 1371 points (descriptors 1371)
+imgpts2 has 1278 points (descriptors 1278)
+Matching 12-1.jpg:12-10.jpg DONE 0.0363562s
+F keeping 242 / 710
+710 matches before, 242 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.100926s
+------------ Match 12-1.jpg,12-2.jpg ------------
+imgpts1 has 1371 points (descriptors 1371)
+imgpts2 has 1347 points (descriptors 1347)
+Matching 12-1.jpg:12-2.jpg DONE 0.032431s
+F keeping 914 / 1052
+1052 matches before, 914 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.00159064s
+------------ Match 12-1.jpg,12-14.jpg ------------
+imgpts1 has 1371 points (descriptors 1371)
+imgpts2 has 1227 points (descriptors 1227)
+Matching 12-1.jpg:12-14.jpg DONE 0.0358035s
+F keeping 114 / 620
+620 matches before, 114 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0937932s
+------------ Match 12-1.jpg,12-3.jpg ------------
+imgpts1 has 1371 points (descriptors 1371)
+imgpts2 has 1277 points (descriptors 1277)
+Matching 12-1.jpg:12-3.jpg DONE 0.0366499s
+F keeping 94 / 610
+610 matches before, 94 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0925529s
+------------ Match 12-1.jpg,12-7.jpg ------------
+imgpts1 has 1371 points (descriptors 1371)
+imgpts2 has 1353 points (descriptors 1353)
+Matching 12-1.jpg:12-7.jpg DONE 0.0375688s
+F keeping 73 / 678
+678 matches before, 73 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0979862s
+------------ Match 12-1.jpg,12-15.jpg ------------
+imgpts1 has 1371 points (descriptors 1371)
+imgpts2 has 1358 points (descriptors 1358)
+Matching 12-1.jpg:12-15.jpg DONE 0.0361052s
+F keeping 33 / 617
+617 matches before, 33 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0935049s
+------------ Match 12-1.jpg,12-0.jpg ------------
+imgpts1 has 1371 points (descriptors 1371)
+imgpts2 has 1012 points (descriptors 1012)
+Matching 12-1.jpg:12-0.jpg DONE 0.0339098s
+F keeping 58 / 567
+567 matches before, 58 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0884537s
+------------ Match 12-17.jpg,12-19.jpg ------------
+imgpts1 has 974 points (descriptors 974)
+imgpts2 has 1325 points (descriptors 1325)
+Matching 12-17.jpg:12-19.jpg DONE 0.029742s
+F keeping 170 / 504
+504 matches before, 170 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0823567s
+------------ Match 12-17.jpg,12-18.jpg ------------
+imgpts1 has 974 points (descriptors 974)
+imgpts2 has 1146 points (descriptors 1146)
+Matching 12-17.jpg:12-18.jpg DONE 0.0280663s
+F keeping 37 / 418
+418 matches before, 37 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0762815s
+------------ Match 12-17.jpg,12-16.jpg ------------
+imgpts1 has 974 points (descriptors 974)
+imgpts2 has 1277 points (descriptors 1277)
+Matching 12-17.jpg:12-16.jpg DONE 0.0309963s
+F keeping 92 / 470
+470 matches before, 92 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0803153s
+------------ Match 12-17.jpg,12-10.jpg ------------
+imgpts1 has 974 points (descriptors 974)
+imgpts2 has 1278 points (descriptors 1278)
+Matching 12-17.jpg:12-10.jpg DONE 0.0287824s
+F keeping 96 / 467
+467 matches before, 96 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0798445s
+------------ Match 12-17.jpg,12-2.jpg ------------
+imgpts1 has 974 points (descriptors 974)
+imgpts2 has 1347 points (descriptors 1347)
+Matching 12-17.jpg:12-2.jpg DONE 0.0302094s
+F keeping 233 / 506
+506 matches before, 233 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0438604s
+------------ Match 12-17.jpg,12-14.jpg ------------
+imgpts1 has 974 points (descriptors 974)
+imgpts2 has 1227 points (descriptors 1227)
+Matching 12-17.jpg:12-14.jpg DONE 0.0283453s
+F keeping 20 / 411
+411 matches before, 20 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0743063s
+------------ Match 12-17.jpg,12-3.jpg ------------
+imgpts1 has 974 points (descriptors 974)
+imgpts2 has 1277 points (descriptors 1277)
+Matching 12-17.jpg:12-3.jpg DONE 0.0286164s
+F keeping 33 / 402
+402 matches before, 33 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0739897s
+------------ Match 12-17.jpg,12-7.jpg ------------
+imgpts1 has 974 points (descriptors 974)
+imgpts2 has 1353 points (descriptors 1353)
+Matching 12-17.jpg:12-7.jpg DONE 0.0296886s
+F keeping 23 / 445
+445 matches before, 23 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0781675s
+------------ Match 12-17.jpg,12-15.jpg ------------
+imgpts1 has 974 points (descriptors 974)
+imgpts2 has 1358 points (descriptors 1358)
+Matching 12-17.jpg:12-15.jpg DONE 0.0293844s
+F keeping 21 / 416
+416 matches before, 21 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0752772s
+------------ Match 12-17.jpg,12-0.jpg ------------
+imgpts1 has 974 points (descriptors 974)
+imgpts2 has 1012 points (descriptors 1012)
+Matching 12-17.jpg:12-0.jpg DONE 0.026488s
+F keeping 22 / 392
+392 matches before, 22 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0725764s
+------------ Match 12-19.jpg,12-18.jpg ------------
+imgpts1 has 1325 points (descriptors 1325)
+imgpts2 has 1146 points (descriptors 1146)
+Matching 12-19.jpg:12-18.jpg DONE 0.0343943s
+F keeping 48 / 575
+575 matches before, 48 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0898488s
+------------ Match 12-19.jpg,12-16.jpg ------------
+imgpts1 has 1325 points (descriptors 1325)
+imgpts2 has 1277 points (descriptors 1277)
+Matching 12-19.jpg:12-16.jpg DONE 0.0362662s
+F keeping 90 / 584
+584 matches before, 90 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0909279s
+------------ Match 12-19.jpg,12-10.jpg ------------
+imgpts1 has 1325 points (descriptors 1325)
+imgpts2 has 1278 points (descriptors 1278)
+Matching 12-19.jpg:12-10.jpg DONE 0.0361344s
+F keeping 180 / 638
+638 matches before, 180 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0953885s
+------------ Match 12-19.jpg,12-2.jpg ------------
+imgpts1 has 1325 points (descriptors 1325)
+imgpts2 has 1347 points (descriptors 1347)
+Matching 12-19.jpg:12-2.jpg DONE 0.0365841s
+F keeping 294 / 695
+695 matches before, 294 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0958699s
+------------ Match 12-19.jpg,12-14.jpg ------------
+imgpts1 has 1325 points (descriptors 1325)
+imgpts2 has 1227 points (descriptors 1227)
+Matching 12-19.jpg:12-14.jpg DONE 0.0356399s
+F keeping 74 / 570
+570 matches before, 74 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0887802s
+------------ Match 12-19.jpg,12-3.jpg ------------
+imgpts1 has 1325 points (descriptors 1325)
+imgpts2 has 1277 points (descriptors 1277)
+Matching 12-19.jpg:12-3.jpg DONE 0.0353632s
+F keeping 25 / 570
+570 matches before, 25 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0882715s
+------------ Match 12-19.jpg,12-7.jpg ------------
+imgpts1 has 1325 points (descriptors 1325)
+imgpts2 has 1353 points (descriptors 1353)
+Matching 12-19.jpg:12-7.jpg DONE 0.0354808s
+F keeping 30 / 609
+609 matches before, 30 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0926042s
+------------ Match 12-19.jpg,12-15.jpg ------------
+imgpts1 has 1325 points (descriptors 1325)
+imgpts2 has 1358 points (descriptors 1358)
+Matching 12-19.jpg:12-15.jpg DONE 0.0370994s
+F keeping 24 / 612
+612 matches before, 24 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0935123s
+------------ Match 12-19.jpg,12-0.jpg ------------
+imgpts1 has 1325 points (descriptors 1325)
+imgpts2 has 1012 points (descriptors 1012)
+Matching 12-19.jpg:12-0.jpg DONE 0.0328434s
+F keeping 54 / 517
+517 matches before, 54 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0840964s
+------------ Match 12-18.jpg,12-16.jpg ------------
+imgpts1 has 1146 points (descriptors 1146)
+imgpts2 has 1277 points (descriptors 1277)
+Matching 12-18.jpg:12-16.jpg DONE 0.0313955s
+F keeping 70 / 524
+524 matches before, 70 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0839798s
+------------ Match 12-18.jpg,12-10.jpg ------------
+imgpts1 has 1146 points (descriptors 1146)
+imgpts2 has 1278 points (descriptors 1278)
+Matching 12-18.jpg:12-10.jpg DONE 0.0318826s
+F keeping 138 / 613
+613 matches before, 138 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0920156s
+------------ Match 12-18.jpg,12-2.jpg ------------
+imgpts1 has 1146 points (descriptors 1146)
+imgpts2 has 1347 points (descriptors 1347)
+Matching 12-18.jpg:12-2.jpg DONE 0.0327031s
+F keeping 72 / 592
+592 matches before, 72 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0902262s
+------------ Match 12-18.jpg,12-14.jpg ------------
+imgpts1 has 1146 points (descriptors 1146)
+imgpts2 has 1227 points (descriptors 1227)
+Matching 12-18.jpg:12-14.jpg DONE 0.0319192s
+F keeping 53 / 537
+537 matches before, 53 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0858655s
+------------ Match 12-18.jpg,12-3.jpg ------------
+imgpts1 has 1146 points (descriptors 1146)
+imgpts2 has 1277 points (descriptors 1277)
+Matching 12-18.jpg:12-3.jpg DONE 0.0330421s
+F keeping 23 / 539
+539 matches before, 23 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0862576s
+------------ Match 12-18.jpg,12-7.jpg ------------
+imgpts1 has 1146 points (descriptors 1146)
+imgpts2 has 1353 points (descriptors 1353)
+Matching 12-18.jpg:12-7.jpg DONE 0.0320583s
+F keeping 80 / 581
+581 matches before, 80 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0891551s
+------------ Match 12-18.jpg,12-15.jpg ------------
+imgpts1 has 1146 points (descriptors 1146)
+imgpts2 has 1358 points (descriptors 1358)
+Matching 12-18.jpg:12-15.jpg DONE 0.0323323s
+F keeping 23 / 555
+555 matches before, 23 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0875133s
+------------ Match 12-18.jpg,12-0.jpg ------------
+imgpts1 has 1146 points (descriptors 1146)
+imgpts2 has 1012 points (descriptors 1012)
+Matching 12-18.jpg:12-0.jpg DONE 0.0286543s
+F keeping 41 / 522
+522 matches before, 41 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0843458s
+------------ Match 12-16.jpg,12-10.jpg ------------
+imgpts1 has 1277 points (descriptors 1277)
+imgpts2 has 1278 points (descriptors 1278)
+Matching 12-16.jpg:12-10.jpg DONE 0.0347668s
+F keeping 182 / 612
+612 matches before, 182 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.091683s
+------------ Match 12-16.jpg,12-2.jpg ------------
+imgpts1 has 1277 points (descriptors 1277)
+imgpts2 has 1347 points (descriptors 1347)
+Matching 12-16.jpg:12-2.jpg DONE 0.0353771s
+F keeping 260 / 657
+657 matches before, 260 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0961108s
+------------ Match 12-16.jpg,12-14.jpg ------------
+imgpts1 has 1277 points (descriptors 1277)
+imgpts2 has 1227 points (descriptors 1227)
+Matching 12-16.jpg:12-14.jpg DONE 0.0336203s
+F keeping 30 / 536
+536 matches before, 30 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0860599s
+------------ Match 12-16.jpg,12-3.jpg ------------
+imgpts1 has 1277 points (descriptors 1277)
+imgpts2 has 1277 points (descriptors 1277)
+Matching 12-16.jpg:12-3.jpg DONE 0.0343548s
+F keeping 239 / 570
+570 matches before, 239 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0894129s
+------------ Match 12-16.jpg,12-7.jpg ------------
+imgpts1 has 1277 points (descriptors 1277)
+imgpts2 has 1353 points (descriptors 1353)
+Matching 12-16.jpg:12-7.jpg DONE 0.0352411s
+F keeping 143 / 631
+631 matches before, 143 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0936461s
+------------ Match 12-16.jpg,12-15.jpg ------------
+imgpts1 has 1277 points (descriptors 1277)
+imgpts2 has 1358 points (descriptors 1358)
+Matching 12-16.jpg:12-15.jpg DONE 0.0359349s
+F keeping 110 / 583
+583 matches before, 110 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0901337s
+------------ Match 12-16.jpg,12-0.jpg ------------
+imgpts1 has 1277 points (descriptors 1277)
+imgpts2 has 1012 points (descriptors 1012)
+Matching 12-16.jpg:12-0.jpg DONE 0.0324479s
+F keeping 42 / 548
+548 matches before, 42 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0875485s
+------------ Match 12-10.jpg,12-2.jpg ------------
+imgpts1 has 1278 points (descriptors 1278)
+imgpts2 has 1347 points (descriptors 1347)
+Matching 12-10.jpg:12-2.jpg DONE 0.0362974s
+F keeping 258 / 697
+697 matches before, 258 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.100086s
+------------ Match 12-10.jpg,12-14.jpg ------------
+imgpts1 has 1278 points (descriptors 1278)
+imgpts2 has 1227 points (descriptors 1227)
+Matching 12-10.jpg:12-14.jpg DONE 0.0341237s
+F keeping 189 / 641
+641 matches before, 189 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0948083s
+------------ Match 12-10.jpg,12-3.jpg ------------
+imgpts1 has 1278 points (descriptors 1278)
+imgpts2 has 1277 points (descriptors 1277)
+Matching 12-10.jpg:12-3.jpg DONE 0.0339698s
+F keeping 91 / 639
+639 matches before, 91 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.094126s
+------------ Match 12-10.jpg,12-7.jpg ------------
+imgpts1 has 1278 points (descriptors 1278)
+imgpts2 has 1353 points (descriptors 1353)
+Matching 12-10.jpg:12-7.jpg DONE 0.035407s
+F keeping 74 / 650
+650 matches before, 74 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0945664s
+------------ Match 12-10.jpg,12-15.jpg ------------
+imgpts1 has 1278 points (descriptors 1278)
+imgpts2 has 1358 points (descriptors 1358)
+Matching 12-10.jpg:12-15.jpg DONE 0.0345129s
+F keeping 28 / 622
+622 matches before, 28 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0936088s
+------------ Match 12-10.jpg,12-0.jpg ------------
+imgpts1 has 1278 points (descriptors 1278)
+imgpts2 has 1012 points (descriptors 1012)
+Matching 12-10.jpg:12-0.jpg DONE 0.0312945s
+F keeping 96 / 566
+566 matches before, 96 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0882882s
+------------ Match 12-2.jpg,12-14.jpg ------------
+imgpts1 has 1347 points (descriptors 1347)
+imgpts2 has 1227 points (descriptors 1227)
+Matching 12-2.jpg:12-14.jpg DONE 0.0345279s
+F keeping 119 / 598
+598 matches before, 119 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0913362s
+------------ Match 12-2.jpg,12-3.jpg ------------
+imgpts1 has 1347 points (descriptors 1347)
+imgpts2 has 1277 points (descriptors 1277)
+Matching 12-2.jpg:12-3.jpg DONE 0.0346371s
+F keeping 121 / 608
+608 matches before, 121 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0922377s
+------------ Match 12-2.jpg,12-7.jpg ------------
+imgpts1 has 1347 points (descriptors 1347)
+imgpts2 has 1353 points (descriptors 1353)
+Matching 12-2.jpg:12-7.jpg DONE 0.0357442s
+F keeping 76 / 663
+663 matches before, 76 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0967002s
+------------ Match 12-2.jpg,12-15.jpg ------------
+imgpts1 has 1347 points (descriptors 1347)
+imgpts2 has 1358 points (descriptors 1358)
+Matching 12-2.jpg:12-15.jpg DONE 0.0360045s
+F keeping 28 / 603
+603 matches before, 28 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0909457s
+------------ Match 12-2.jpg,12-0.jpg ------------
+imgpts1 has 1347 points (descriptors 1347)
+imgpts2 has 1012 points (descriptors 1012)
+Matching 12-2.jpg:12-0.jpg DONE 0.032194s
+F keeping 83 / 558
+558 matches before, 83 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0877436s
+------------ Match 12-14.jpg,12-3.jpg ------------
+imgpts1 has 1227 points (descriptors 1227)
+imgpts2 has 1277 points (descriptors 1277)
+Matching 12-14.jpg:12-3.jpg DONE 0.0336859s
+F keeping 101 / 634
+634 matches before, 101 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0947286s
+------------ Match 12-14.jpg,12-7.jpg ------------
+imgpts1 has 1227 points (descriptors 1227)
+imgpts2 has 1353 points (descriptors 1353)
+Matching 12-14.jpg:12-7.jpg DONE 0.0339631s
+F keeping 60 / 628
+628 matches before, 60 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0933772s
+------------ Match 12-14.jpg,12-15.jpg ------------
+imgpts1 has 1227 points (descriptors 1227)
+imgpts2 has 1358 points (descriptors 1358)
+Matching 12-14.jpg:12-15.jpg DONE 0.0335084s
+F keeping 28 / 652
+652 matches before, 28 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0966744s
+------------ Match 12-14.jpg,12-0.jpg ------------
+imgpts1 has 1227 points (descriptors 1227)
+imgpts2 has 1012 points (descriptors 1012)
+Matching 12-14.jpg:12-0.jpg DONE 0.0295767s
+F keeping 180 / 597
+597 matches before, 180 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0908566s
+------------ Match 12-3.jpg,12-7.jpg ------------
+imgpts1 has 1277 points (descriptors 1277)
+imgpts2 has 1353 points (descriptors 1353)
+Matching 12-3.jpg:12-7.jpg DONE 0.0345923s
+F keeping 235 / 694
+694 matches before, 235 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0994842s
+------------ Match 12-3.jpg,12-15.jpg ------------
+imgpts1 has 1277 points (descriptors 1277)
+imgpts2 has 1358 points (descriptors 1358)
+Matching 12-3.jpg:12-15.jpg DONE 0.0353676s
+F keeping 284 / 748
+748 matches before, 284 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.103936s
+------------ Match 12-3.jpg,12-0.jpg ------------
+imgpts1 has 1277 points (descriptors 1277)
+imgpts2 has 1012 points (descriptors 1012)
+Matching 12-3.jpg:12-0.jpg DONE 0.0309715s
+F keeping 34 / 594
+594 matches before, 34 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0906687s
+------------ Match 12-7.jpg,12-15.jpg ------------
+imgpts1 has 1353 points (descriptors 1353)
+imgpts2 has 1358 points (descriptors 1358)
+Matching 12-7.jpg:12-15.jpg DONE 0.0359855s
+F keeping 195 / 660
+660 matches before, 195 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0950177s
+------------ Match 12-7.jpg,12-0.jpg ------------
+imgpts1 has 1353 points (descriptors 1353)
+imgpts2 has 1012 points (descriptors 1012)
+Matching 12-7.jpg:12-0.jpg DONE 0.0325214s
+F keeping 153 / 611
+611 matches before, 153 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0913511s
+------------ Match 12-15.jpg,12-0.jpg ------------
+imgpts1 has 1358 points (descriptors 1358)
+imgpts2 has 1012 points (descriptors 1012)
+Matching 12-15.jpg:12-0.jpg DONE 0.0329754s
+F keeping 30 / 556
+556 matches before, 30 new matches after Fundamental Matrix
+GetFundamentalMat:  DONE 0.0874675s
+OnlyMatchFeatures DONE 25.2309s
+======================================================================
+======================== Depth Recovery Start ========================
+======================================================================
+F keeping 197 / 906
+906 matches before, 197 new matches after Fundamental Matrix
+F keeping 241 / 906
+906 matches before, 241 new matches after Fundamental Matrix
+F keeping 148 / 906
+906 matches before, 148 new matches after Fundamental Matrix
+F keeping 43 / 906
+906 matches before, 43 new matches after Fundamental Matrix
+F keeping 90 / 906
+906 matches before, 90 new matches after Fundamental Matrix
+F keeping 463 / 906
+906 matches before, 463 new matches after Fundamental Matrix
+F keeping 140 / 906
+906 matches before, 140 new matches after Fundamental Matrix
+F keeping 273 / 906
+906 matches before, 273 new matches after Fundamental Matrix
+F keeping 34 / 906
+906 matches before, 34 new matches after Fundamental Matrix
+F keeping 194 / 906
+906 matches before, 194 new matches after Fundamental Matrix
+F keeping 189 / 906
+906 matches before, 189 new matches after Fundamental Matrix
+F keeping 460 / 906
+906 matches before, 460 new matches after Fundamental Matrix
+F keeping 60 / 906
+906 matches before, 60 new matches after Fundamental Matrix
+F keeping 33 / 906
+906 matches before, 33 new matches after Fundamental Matrix
+F keeping 45 / 906
+906 matches before, 45 new matches after Fundamental Matrix
+F keeping 31 / 906
+906 matches before, 31 new matches after Fundamental Matrix
+F keeping 77 / 906
+906 matches before, 77 new matches after Fundamental Matrix
+F keeping 65 / 1483
+1483 matches before, 65 new matches after Fundamental Matrix
+F keeping 100 / 1483
+1483 matches before, 100 new matches after Fundamental Matrix
+F keeping 38 / 1483
+1483 matches before, 38 new matches after Fundamental Matrix
+F keeping 182 / 1483
+1483 matches before, 182 new matches after Fundamental Matrix
+F keeping 332 / 1483
+1483 matches before, 332 new matches after Fundamental Matrix
+F keeping 83 / 1483
+1483 matches before, 83 new matches after Fundamental Matrix
+F keeping 239 / 1483
+1483 matches before, 239 new matches after Fundamental Matrix
+F keeping 159 / 1483
+1483 matches before, 159 new matches after Fundamental Matrix
+F keeping 154 / 1483
+1483 matches before, 154 new matches after Fundamental Matrix
+F keeping 38 / 1483
+1483 matches before, 38 new matches after Fundamental Matrix
+F keeping 319 / 1483
+1483 matches before, 319 new matches after Fundamental Matrix
+F keeping 44 / 1483
+1483 matches before, 44 new matches after Fundamental Matrix
+F keeping 52 / 1483
+1483 matches before, 52 new matches after Fundamental Matrix
+F keeping 70 / 1483
+1483 matches before, 70 new matches after Fundamental Matrix
+F keeping 38 / 1483
+1483 matches before, 38 new matches after Fundamental Matrix
+F keeping 56 / 1483
+1483 matches before, 56 new matches after Fundamental Matrix
+F keeping 50 / 874
+874 matches before, 50 new matches after Fundamental Matrix
+F keeping 36 / 874
+874 matches before, 36 new matches after Fundamental Matrix
+F keeping 93 / 874
+874 matches before, 93 new matches after Fundamental Matrix
+F keeping 307 / 874
+874 matches before, 307 new matches after Fundamental Matrix
+F keeping 71 / 874
+874 matches before, 71 new matches after Fundamental Matrix
+F keeping 219 / 874
+874 matches before, 219 new matches after Fundamental Matrix
+F keeping 70 / 874
+874 matches before, 70 new matches after Fundamental Matrix
+F keeping 89 / 874
+874 matches before, 89 new matches after Fundamental Matrix
+F keeping 212 / 874
+874 matches before, 212 new matches after Fundamental Matrix
+F keeping 302 / 874
+874 matches before, 302 new matches after Fundamental Matrix
+F keeping 217 / 874
+874 matches before, 217 new matches after Fundamental Matrix
+F keeping 41 / 874
+874 matches before, 41 new matches after Fundamental Matrix
+F keeping 34 / 874
+874 matches before, 34 new matches after Fundamental Matrix
+F keeping 30 / 874
+874 matches before, 30 new matches after Fundamental Matrix
+F keeping 263 / 874
+874 matches before, 263 new matches after Fundamental Matrix
+F keeping 38 / 949
+949 matches before, 38 new matches after Fundamental Matrix
+F keeping 159 / 949
+949 matches before, 159 new matches after Fundamental Matrix
+F keeping 474 / 949
+949 matches before, 474 new matches after Fundamental Matrix
+F keeping 152 / 949
+949 matches before, 152 new matches after Fundamental Matrix
+F keeping 265 / 949
+949 matches before, 265 new matches after Fundamental Matrix
+F keeping 31 / 949
+949 matches before, 31 new matches after Fundamental Matrix
+F keeping 316 / 949
+949 matches before, 316 new matches after Fundamental Matrix
+F keeping 301 / 949
+949 matches before, 301 new matches after Fundamental Matrix
+F keeping 508 / 949
+949 matches before, 508 new matches after Fundamental Matrix
+F keeping 33 / 949
+949 matches before, 33 new matches after Fundamental Matrix
+F keeping 127 / 949
+949 matches before, 127 new matches after Fundamental Matrix
+F keeping 42 / 949
+949 matches before, 42 new matches after Fundamental Matrix
+F keeping 36 / 949
+949 matches before, 36 new matches after Fundamental Matrix
+F keeping 34 / 949
+949 matches before, 34 new matches after Fundamental Matrix
+F keeping 37 / 939
+939 matches before, 37 new matches after Fundamental Matrix
+F keeping 24 / 939
+939 matches before, 24 new matches after Fundamental Matrix
+F keeping 27 / 939
+939 matches before, 27 new matches after Fundamental Matrix
+F keeping 62 / 939
+939 matches before, 62 new matches after Fundamental Matrix
+F keeping 34 / 939
+939 matches before, 34 new matches after Fundamental Matrix
+F keeping 26 / 939
+939 matches before, 26 new matches after Fundamental Matrix
+F keeping 37 / 939
+939 matches before, 37 new matches after Fundamental Matrix
+F keeping 44 / 939
+939 matches before, 44 new matches after Fundamental Matrix
+F keeping 32 / 939
+939 matches before, 32 new matches after Fundamental Matrix
+F keeping 32 / 939
+939 matches before, 32 new matches after Fundamental Matrix
+F keeping 30 / 939
+939 matches before, 30 new matches after Fundamental Matrix
+F keeping 28 / 939
+939 matches before, 28 new matches after Fundamental Matrix
+F keeping 29 / 939
+939 matches before, 29 new matches after Fundamental Matrix
+F keeping 194 / 1146
+1146 matches before, 194 new matches after Fundamental Matrix
+F keeping 95 / 1146
+1146 matches before, 95 new matches after Fundamental Matrix
+F keeping 90 / 1146
+1146 matches before, 90 new matches after Fundamental Matrix
+F keeping 78 / 1146
+1146 matches before, 78 new matches after Fundamental Matrix
+F keeping 113 / 1146
+1146 matches before, 113 new matches after Fundamental Matrix
+F keeping 139 / 1146
+1146 matches before, 139 new matches after Fundamental Matrix
+F keeping 164 / 1146
+1146 matches before, 164 new matches after Fundamental Matrix
+F keeping 31 / 1146
+1146 matches before, 31 new matches after Fundamental Matrix
+F keeping 38 / 1146
+1146 matches before, 38 new matches after Fundamental Matrix
+F keeping 65 / 1146
+1146 matches before, 65 new matches after Fundamental Matrix
+F keeping 39 / 1146
+1146 matches before, 39 new matches after Fundamental Matrix
+F keeping 50 / 1146
+1146 matches before, 50 new matches after Fundamental Matrix
+F keeping 394 / 1371
+1371 matches before, 394 new matches after Fundamental Matrix
+F keeping 334 / 1371
+1371 matches before, 334 new matches after Fundamental Matrix
+F keeping 99 / 1371
+1371 matches before, 99 new matches after Fundamental Matrix
+F keeping 315 / 1371
+1371 matches before, 315 new matches after Fundamental Matrix
+F keeping 265 / 1371
+1371 matches before, 265 new matches after Fundamental Matrix
+F keeping 1079 / 1371
+1371 matches before, 1079 new matches after Fundamental Matrix
+F keeping 68 / 1371
+1371 matches before, 68 new matches after Fundamental Matrix
+F keeping 80 / 1371
+1371 matches before, 80 new matches after Fundamental Matrix
+F keeping 130 / 1371
+1371 matches before, 130 new matches after Fundamental Matrix
+F keeping 51 / 1371
+1371 matches before, 51 new matches after Fundamental Matrix
+F keeping 47 / 1371
+1371 matches before, 47 new matches after Fundamental Matrix
+F keeping 87 / 974
+974 matches before, 87 new matches after Fundamental Matrix
+F keeping 32 / 974
+974 matches before, 32 new matches after Fundamental Matrix
+F keeping 93 / 974
+974 matches before, 93 new matches after Fundamental Matrix
+F keeping 37 / 974
+974 matches before, 37 new matches after Fundamental Matrix
+F keeping 60 / 974
+974 matches before, 60 new matches after Fundamental Matrix
+F keeping 32 / 974
+974 matches before, 32 new matches after Fundamental Matrix
+F keeping 26 / 974
+974 matches before, 26 new matches after Fundamental Matrix
+F keeping 31 / 974
+974 matches before, 31 new matches after Fundamental Matrix
+F keeping 27 / 974
+974 matches before, 27 new matches after Fundamental Matrix
+F keeping 27 / 974
+974 matches before, 27 new matches after Fundamental Matrix
+F keeping 57 / 1325
+1325 matches before, 57 new matches after Fundamental Matrix
+F keeping 65 / 1325
+1325 matches before, 65 new matches after Fundamental Matrix
+F keeping 268 / 1325
+1325 matches before, 268 new matches after Fundamental Matrix
+F keeping 422 / 1325
+1325 matches before, 422 new matches after Fundamental Matrix
+F keeping 40 / 1325
+1325 matches before, 40 new matches after Fundamental Matrix
+F keeping 37 / 1325
+1325 matches before, 37 new matches after Fundamental Matrix
+F keeping 49 / 1325
+1325 matches before, 49 new matches after Fundamental Matrix
+F keeping 37 / 1325
+1325 matches before, 37 new matches after Fundamental Matrix
+F keeping 44 / 1325
+1325 matches before, 44 new matches after Fundamental Matrix
+F keeping 69 / 1146
+1146 matches before, 69 new matches after Fundamental Matrix
+F keeping 214 / 1146
+1146 matches before, 214 new matches after Fundamental Matrix
+F keeping 106 / 1146
+1146 matches before, 106 new matches after Fundamental Matrix
+F keeping 41 / 1146
+1146 matches before, 41 new matches after Fundamental Matrix
+F keeping 39 / 1146
+1146 matches before, 39 new matches after Fundamental Matrix
+F keeping 50 / 1146
+1146 matches before, 50 new matches after Fundamental Matrix
+F keeping 33 / 1146
+1146 matches before, 33 new matches after Fundamental Matrix
+F keeping 36 / 1146
+1146 matches before, 36 new matches after Fundamental Matrix
+F keeping 19 / 1277
+1277 matches before, 19 new matches after Fundamental Matrix
+F keeping 312 / 1277
+1277 matches before, 312 new matches after Fundamental Matrix
+F keeping 24 / 1277
+1277 matches before, 24 new matches after Fundamental Matrix
+F keeping 310 / 1277
+1277 matches before, 310 new matches after Fundamental Matrix
+F keeping 143 / 1277
+1277 matches before, 143 new matches after Fundamental Matrix
+F keeping 106 / 1277
+1277 matches before, 106 new matches after Fundamental Matrix
+F keeping 24 / 1277
+1277 matches before, 24 new matches after Fundamental Matrix
+F keeping 371 / 1278
+1278 matches before, 371 new matches after Fundamental Matrix
+F keeping 186 / 1278
+1278 matches before, 186 new matches after Fundamental Matrix
+F keeping 50 / 1278
+1278 matches before, 50 new matches after Fundamental Matrix
+F keeping 79 / 1278
+1278 matches before, 79 new matches after Fundamental Matrix
+F keeping 41 / 1278
+1278 matches before, 41 new matches after Fundamental Matrix
+F keeping 36 / 1278
+1278 matches before, 36 new matches after Fundamental Matrix
+F keeping 154 / 1347
+1347 matches before, 154 new matches after Fundamental Matrix
+F keeping 85 / 1347
+1347 matches before, 85 new matches after Fundamental Matrix
+F keeping 49 / 1347
+1347 matches before, 49 new matches after Fundamental Matrix
+F keeping 35 / 1347
+1347 matches before, 35 new matches after Fundamental Matrix
+F keeping 36 / 1347
+1347 matches before, 36 new matches after Fundamental Matrix
+F keeping 85 / 1227
+1227 matches before, 85 new matches after Fundamental Matrix
+F keeping 124 / 1227
+1227 matches before, 124 new matches after Fundamental Matrix
+F keeping 30 / 1227
+1227 matches before, 30 new matches after Fundamental Matrix
+F keeping 283 / 1227
+1227 matches before, 283 new matches after Fundamental Matrix
+F keeping 211 / 1277
+1277 matches before, 211 new matches after Fundamental Matrix
+F keeping 396 / 1277
+1277 matches before, 396 new matches after Fundamental Matrix
+F keeping 56 / 1277
+1277 matches before, 56 new matches after Fundamental Matrix
+F keeping 133 / 1353
+1353 matches before, 133 new matches after Fundamental Matrix
+F keeping 147 / 1353
+1353 matches before, 147 new matches after Fundamental Matrix
+F keeping 43 / 1358
+1358 matches before, 43 new matches after Fundamental Matrix
+=========================== Baseline triangulation ===========================
+Find highest match...[0,1 = 43%] [0,2 = 56%] [0,3 = 53%] [0,6 = 71%] [0,7 = 50%] [0,8 = 54%] [0,10 = 46%] [0,11 = 38%] [0,12 = 72%] [1,0 = 50%] [1,3 = 20%] [1,5 = 41%] [1,6 = 34%] [1,8 = 38%] [1,9 = 45%] [1,10 = 33%] [1,12 = 44%] [2,0 = 65%] [2,6 = 63%] [2,8 = 50%] [2,11 = 50%] [2,12 = 66%] [2,13 = 57%] [2,17 = 48%] [3,0 = 78%] [3,1 = 28%] [3,5 = 44%] [3,6 = 65%] [3,7 = 56%] [3,8 = 46%] [3,10 = 54%] [3,11 = 46%] [3,12 = 69%] [3,14 = 51%] [5,1 = 30%] [5,3 = 37%] [5,6 = 35%] [5,10 = 23%] [5,11 = 33%] [5,12 = 26%] [6,0 = 76%] [6,1 = 38%] [6,2 = 59%] [6,3 = 65%] [6,5 = 36%] [6,7 = 70%] [6,8 = 39%] [6,10 = 46%] [6,11 = 48%] [6,12 = 90%] [6,15 = 31%] [7,0 = 44%] [7,3 = 33%] [7,6 = 43%] [8,0 = 56%] [8,1 = 32%] [8,2 = 50%] [8,3 = 34%] [8,6 = 39%] [8,11 = 25%] [8,12 = 44%] [9,1 = 47%] [9,11 = 32%] [9,12 = 27%] [10,0 = 53%] [10,1 = 45%] [10,3 = 53%] [10,5 = 38%] [10,6 = 54%] [10,12 = 53%] [10,14 = 45%] [10,15 = 35%] [10,16 = 29%] [11,0 = 54%] [11,2 = 60%] [11,3 = 35%] [11,5 = 44%] [11,6 = 47%] [11,8 = 51%] [11,9 = 38%] [11,12 = 59%] [11,13 = 46%] [12,0 = 77%] [12,1 = 43%] [12,2 = 60%] [12,3 = 61%] [12,5 = 35%] [12,6 = 90%] [12,8 = 51%] [12,9 = 22%] [12,10 = 39%] [12,11 = 48%] [12,13 = 44%] [13,2 = 75%] [13,11 = 51%] [13,12 = 74%] [13,15 = 38%] [13,17 = 43%] [14,3 = 66%] [14,10 = 68%] [14,15 = 46%] [14,16 = 41%] [15,6 = 44%] [15,10 = 46%] [15,13 = 29%] [15,14 = 37%] [15,16 = 49%] [15,17 = 55%] [16,10 = 47%] [16,14 = 53%] [16,15 = 48%] [17,2 = 41%] [17,13 = 28%] [17,15 = 45%] 
+ -------- 12-9.jpg and 12-8.jpg -------- 
+Find camera matrices...F keeping 80 / 100
+100 matches before, 80 new matches after Fundamental Matrix
+not enough inliers after F matrix
+ -------- 12-2.jpg and 12-18.jpg -------- 
+Find camera matrices...F keeping 80 / 106
+106 matches before, 80 new matches after Fundamental Matrix
+not enough inliers after F matrix
+ -------- 12-5.jpg and 12-16.jpg -------- 
+Find camera matrices...F keeping 85 / 113
+113 matches before, 85 new matches after Fundamental Matrix
+not enough inliers after F matrix
+ -------- 12-19.jpg and 12-10.jpg -------- 
+Find camera matrices...F keeping 209 / 268
+268 matches before, 209 new matches after Fundamental Matrix
+----------------------- SVD ------------------------
+U:
+[0.9761518615824337, -0.2159028334581479, -0.0226607509560582;
+  0.2169440824140867, 0.9663612762169971, 0.1381345320105251;
+  -0.007925164645555663, -0.1397563963938685, 0.9901542008355773]
+W:
+[11.27011551808224; 8.033698187467715; 2.403453107561057e-11]
+Vt:
+[-0.1999675556290423, 0.974851370701894, -0.09837571720899554;
+  -0.9683848468241847, -0.2119218470883535, -0.1316051639106933;
+  -0.1491434381293586, 0.06894879090527171, 0.9864087890401501]
+----------------------------------------------------
+Testing P1 
+[0.9918439351238375, -0.005167698969239748, 0.1273534579248784, -0.0226607509560582;
+  -0.003757399270135672, 0.9975580143378436, 0.06974159433984338, 0.1381345320105251;
+  -0.1274028661717829, -0.06965129516169678, 0.9894024493468332, 0.9901542008355773]
+Triangulating...Done. (209points, 0.00593288s, mean reproj err = 8.0771)
+Triangulating...Done. (209points, 0.00598729s, mean reproj err = 5.03235)
+1/209 = 0.478469% are in front of camera
+Testing P1 
+[0.9918439351238375, -0.005167698969239748, 0.1273534579248784, 0.0226607509560582;
+  -0.003757399270135672, 0.9975580143378436, 0.06974159433984338, -0.1381345320105251;
+  -0.1274028661717829, -0.06965129516169678, 0.9894024493468332, -0.9901542008355773]
+Triangulating...Done. (209points, 0.00585549s, mean reproj err = 8.0771)
+Triangulating...Done. (209points, 0.00580793s, mean reproj err = 5.03235)
+208/209 = 99.5215% are in front of camera
+208/209 = 99.5215% are in front of camera
+Done. (0.0255248s)
+ Triangulate 12-10.jpg and 12-19.jpg
+Triangulating...Done. (209points, 0.00599532s, mean reproj err = 8.0771)
+triangulation reproj error 8.0771
+208/209 = 99.5215% are in front of camera
+208/209 = 99.5215% are in front of camera
+filtered out 21 high-error points
+0/188 points were found in other views, adding 188 new
+before triangulation: 0 after 188
+Taking baseline from 12-19.jpg and 12-10.jpg
+======================== Bundle Adjustment ==========================
+N (cams) = 2; M (points) = 188; K (measurements) = 376
+intrinsic before bundle = [ 408 0 204 
+0 408 153 
+0 0 1 ]
+Read the 3D points.
+Read the cameras.
+Read 0 valid 2D measurements.
+mean reprojection error (in pixels): -nan
+K0 = [ 1 0 0.5 
+0 1 0.375 
+0 0 1 ]
+optimizer status = 2
+refined K = [ 1 0 0.5 
+0 1 0.375 
+0 0 1 ]
+Knew = [ 408 0 204 
+0 408 153 
+0 0 1 ]
+mean reprojection error (in pixels): -nan
+use new K 
+[408, 0, 204;
+  0, 408, 153;
+  0, 0, 1]
+Creating point cloud...Done. (5.2869e-05s)
+Creating point cloud...Done. (4.6165e-05s)
+12-4.jpg: found 107 3d-2d point correspondences
+12-9.jpg: found 68 3d-2d point correspondences
+12-11.jpg: found 70 3d-2d point correspondences
+12-8.jpg: found 103 3d-2d point correspondences
+12-13.jpg: found 23 3d-2d point correspondences
+12-5.jpg: found 42 3d-2d point correspondences
+12-1.jpg: found 113 3d-2d point correspondences
+12-17.jpg: found 24 3d-2d point correspondences
+12-18.jpg: found 42 3d-2d point correspondences
+12-16.jpg: found 24 3d-2d point correspondences
+12-2.jpg: found 131 3d-2d point correspondences
+12-14.jpg: found 27 3d-2d point correspondences
+12-3.jpg: found 13 3d-2d point correspondences
+12-7.jpg: found 22 3d-2d point correspondences
+12-15.jpg: found 5 3d-2d point correspondences
+12-0.jpg: found 17 3d-2d point correspondences
+-------------------------- 12-2.jpg --------------------------
+solvePnPRansac DONE 0.00574026s
+found t = [0.141942874062228; -0.1115476202749105; -0.1222326022536504]
+R = 
+[0.9966531917483052, 0.06008266026527385, 0.05543003981022934;
+  -0.0616921829973244, 0.9977080913117211, 0.02779638624258367;
+  -0.05363291838918115, -0.03112295722726135, 0.9980755841109878]
+ -> 12-19.jpg
+ Triangulate 12-2.jpg and 12-19.jpg
+Triangulating...Done. (422points, 0.0119777s, mean reproj err = 7.96932)
+triangulation reproj error 7.96932
+362/422 = 85.782% are in front of camera
+362/422 = 85.782% are in front of camera
+filtered out 76 high-error points
+84/346 points were found in other views, adding 262 new
+before triangulation: 188 after 450
+ -> 12-10.jpg
+ Triangulate 12-2.jpg and 12-10.jpg
+Triangulating...Done. (371points, 0.0106984s, mean reproj err = 5.91875)
+triangulation reproj error 5.91875
+291/371 = 78.4367% are in front of camera
+306/371 = 82.4798% are in front of camera
+filtered out 85 high-error points
+144/286 points were found in other views, adding 142 new
+before triangulation: 450 after 592
+======================== Bundle Adjustment ==========================
+N (cams) = 5; M (points) = 592; K (measurements) = 1310
+intrinsic before bundle = [ 408 0 204 
+0 408 153 
+0 0 1 ]
+Read the 3D points.
+Read the cameras.
+Read 0 valid 2D measurements.
+mean reprojection error (in pixels): -nan
+K0 = [ 1 0 0.5 
+0 1 0.375 
+0 0 1 ]
+optimizer status = 2
+refined K = [ 1 0 0.5 
+0 1 0.375 
+0 0 1 ]
+Knew = [ 408 0 204 
+0 408 153 
+0 0 1 ]
+mean reprojection error (in pixels): -nan
+use new K 
+[408, 0, 204;
+  0, 408, 153;
+  0, 0, 1]
+Creating point cloud...Done. (0.00015861s)
+Creating point cloud...Done. (0.000144711s)
+12-4.jpg: found 323 3d-2d point correspondences
+12-9.jpg: found 229 3d-2d point correspondences
+12-11.jpg: found 252 3d-2d point correspondences
+12-8.jpg: found 259 3d-2d point correspondences
+12-13.jpg: found 40 3d-2d point correspondences
+12-5.jpg: found 135 3d-2d point correspondences
+12-1.jpg: found 423 3d-2d point correspondences
+12-17.jpg: found 61 3d-2d point correspondences
+12-18.jpg: found 117 3d-2d point correspondences
+12-16.jpg: found 132 3d-2d point correspondences
+12-14.jpg: found 136 3d-2d point correspondences
+12-3.jpg: found 54 3d-2d point correspondences
+12-7.jpg: found 50 3d-2d point correspondences
+12-15.jpg: found 29 3d-2d point correspondences
+12-0.jpg: found 45 3d-2d point correspondences
+-------------------------- 12-1.jpg --------------------------
+solvePnPRansac DONE 0.0149886s
+found t = [0.1255097061157109; -0.1261098552474786; -0.08819133690431125]
+R = 
+[0.9955315656200631, 0.07234285579861377, 0.06069112842061053;
+  -0.0744735699073738, 0.9966564449725724, 0.03360979142876684;
+  -0.05805677599830678, -0.03797949327643377, 0.9975905817774884]
+ -> 12-19.jpg
+ Triangulate 12-1.jpg and 12-19.jpg
+Triangulating...Done. (334points, 0.00973364s, mean reproj err = 7.72094)
+triangulation reproj error 7.72094
+266/334 = 79.6407% are in front of camera
+266/334 = 79.6407% are in front of camera
+filtered out 75 high-error points
+188/259 points were found in other views, adding 71 new
+before triangulation: 592 after 663
+ -> 12-10.jpg
+ Triangulate 12-1.jpg and 12-10.jpg
+Triangulating...Done. (265points, 0.00787726s, mean reproj err = 9.26802)
+triangulation reproj error 9.26802
+198/265 = 74.717% are in front of camera
+Triangulation did not succeed
+ -> 12-2.jpg
+ Triangulate 12-1.jpg and 12-2.jpg
+Triangulating...Done. (1079points, 0.0317253s, mean reproj err = 5.60182)
+triangulation reproj error 5.60182
+879/1079 = 81.4643% are in front of camera
+884/1079 = 81.9277% are in front of camera
+filtered out 258 high-error points
+224/821 points were found in other views, adding 597 new
+before triangulation: 663 after 1260
+======================== Bundle Adjustment ==========================
+N (cams) = 9; M (points) = 1260; K (measurements) = 2984
+intrinsic before bundle = [ 408 0 204 
+0 408 153 
+0 0 1 ]
+Read the 3D points.
+Read the cameras.
+Read 1462 valid 2D measurements.
+mean reprojection error (in pixels): 3.74646
+K0 = [ 1 0 0.5 
+0 1 0.375 
+0 0 1 ]
+optimizer status = 0
+refined K = [ 0.944002 0 0.484965 
+0 0.944002 0.26256 
+0 0 1 ]
+Knew = [ 385.153 0 197.866 
+0 385.153 107.124 
+0 0 1 ]
+mean reprojection error (in pixels): 0.707715
+use new K 
+[385.1528832789167, 0, 197.8656219606916;
+  0, 385.1528832789167, 107.1244422892956;
+  0, 0, 1]
+Creating point cloud...Done. (0.000284534s)
+Creating point cloud...Done. (0.000292705s)
+12-4.jpg: found 505 3d-2d point correspondences
+12-9.jpg: found 394 3d-2d point correspondences
+12-11.jpg: found 341 3d-2d point correspondences
+12-8.jpg: found 506 3d-2d point correspondences
+12-13.jpg: found 79 3d-2d point correspondences
+12-5.jpg: found 268 3d-2d point correspondences
+12-17.jpg: found 328 3d-2d point correspondences
+12-18.jpg: found 189 3d-2d point correspondences
+12-16.jpg: found 363 3d-2d point correspondences
+12-14.jpg: found 188 3d-2d point correspondences
+12-3.jpg: found 138 3d-2d point correspondences
+12-7.jpg: found 161 3d-2d point correspondences
+12-15.jpg: found 87 3d-2d point correspondences
+12-0.jpg: found 84 3d-2d point correspondences
+-------------------------- 12-8.jpg --------------------------
+solvePnPRansac DONE 0.0261543s
+found t = [1.137654979178315; 0.221992365408851; 0.9456879428820431]
+R = 
+[0.9419356783165532, 0.04496826121206821, 0.3327687386127157;
+  -0.09378110729002995, 0.98678895483138, 0.1321085256077318;
+  -0.3224318250883286, -0.1556451544583256, 0.9337088968537536]
+ -> 12-1.jpg
+ Triangulate 12-8.jpg and 12-1.jpg
+Triangulating...Done. (474points, 0.0136081s, mean reproj err = 3.30371)
+triangulation reproj error 3.30371
+383/474 = 80.8017% are in front of camera
+374/474 = 78.903% are in front of camera
+filtered out 119 high-error points
+288/355 points were found in other views, adding 67 new
+before triangulation: 1260 after 1327
+ -> 12-19.jpg
+ Triangulate 12-8.jpg and 12-19.jpg
+Triangulating...Done. (265points, 0.00766739s, mean reproj err = 2.93046)
+triangulation reproj error 2.93046
+250/265 = 94.3396% are in front of camera
+250/265 = 94.3396% are in front of camera
+filtered out 15 high-error points
+210/250 points were found in other views, adding 40 new
+before triangulation: 1327 after 1367
+ -> 12-10.jpg
+ Triangulate 12-8.jpg and 12-10.jpg
+Triangulating...Done. (301points, 0.00874609s, mean reproj err = 130.449)
+triangulation reproj error 130.449
+270/301 = 89.701% are in front of camera
+277/301 = 92.0266% are in front of camera
+filtered out 289 high-error points
+10/12 points were found in other views, adding 2 new
+before triangulation: 1367 after 1369
+ -> 12-2.jpg
+ Triangulate 12-8.jpg and 12-2.jpg
+Triangulating...Done. (508points, 0.0145343s, mean reproj err = 62.8526)
+triangulation reproj error 62.8526
+489/508 = 96.2598% are in front of camera
+499/508 = 98.2283% are in front of camera
+filtered out 488 high-error points
+6/20 points were found in other views, adding 14 new
+before triangulation: 1369 after 1383
+======================== Bundle Adjustment ==========================
+N (cams) = 11; M (points) = 1383; K (measurements) = 3744
+intrinsic before bundle = [ 385.153 0 197.866 
+0 385.153 107.124 
+0 0 1 ]
+Read the 3D points.
+Read the cameras.
+Read 2204 valid 2D measurements.
+mean reprojection error (in pixels): 6.28032
+K0 = [ 1 0 0.513733 
+0 1 0.278135 
+0 0 1 ]
+optimizer status = 0
+refined K = [ 1.45138 0 0.522524 
+0 1.45138 0.404983 
+0 0 1 ]
+Knew = [ 559.003 0 201.251 
+0 559.003 155.98 
+0 0 1 ]
+mean reprojection error (in pixels): 0.814204
+use new K 
+[559.0032549027262, 0, 201.2514380654565;
+  0, 559.0032549027262, 155.9803622278594;
+  0, 0, 1]
+Creating point cloud...Done. (0.000305067s)
+Creating point cloud...Done. (0.000328882s)
+12-4.jpg: found 528 3d-2d point correspondences
+12-9.jpg: found 445 3d-2d point correspondences
+12-11.jpg: found 367 3d-2d point correspondences
+12-13.jpg: found 108 3d-2d point correspondences
+12-5.jpg: found 338 3d-2d point correspondences
+12-17.jpg: found 376 3d-2d point correspondences
+12-18.jpg: found 203 3d-2d point correspondences
+12-16.jpg: found 436 3d-2d point correspondences
+12-14.jpg: found 202 3d-2d point correspondences
+12-3.jpg: found 192 3d-2d point correspondences
+12-7.jpg: found 182 3d-2d point correspondences
+12-15.jpg: found 103 3d-2d point correspondences
+12-0.jpg: found 106 3d-2d point correspondences
+-------------------------- 12-4.jpg --------------------------
+solvePnPRansac DONE 0.00168045s
+found t = [-0.805796483193552; -0.6592964290827665; 7.02486859713451]
+R = 
+[0.9387085762993996, 0.1578609782803913, -0.3064410552101531;
+  -0.1182913913867694, 0.98251460449265, 0.1437782969798765;
+  0.3237797947768459, -0.09871658166189329, 0.9409684803431273]
+ -> 12-8.jpg
+ Triangulate 12-4.jpg and 12-8.jpg
+Triangulating...Done. (148points, 0.00423008s, mean reproj err = 1.10894)
+triangulation reproj error 1.10894
+137/148 = 92.5676% are in front of camera
+138/148 = 93.2432% are in front of camera
+filtered out 12 high-error points
+122/136 points were found in other views, adding 14 new
+before triangulation: 1383 after 1397
+ -> 12-1.jpg
+ Triangulate 12-4.jpg and 12-1.jpg
+Triangulating...Done. (463points, 0.0129148s, mean reproj err = 5.46492)
+triangulation reproj error 5.46492
+422/463 = 91.1447% are in front of camera
+431/463 = 93.0886% are in front of camera
+filtered out 55 high-error points
+359/408 points were found in other views, adding 49 new
+before triangulation: 1397 after 1446
+ -> 12-19.jpg
+ Triangulate 12-4.jpg and 12-19.jpg
+Triangulating...Done. (273points, 0.00794661s, mean reproj err = 1.98569)
+triangulation reproj error 1.98569
+273/273 = 100% are in front of camera
+273/273 = 100% are in front of camera
+filtered out 11 high-error points
+237/262 points were found in other views, adding 25 new
+before triangulation: 1446 after 1471
+ -> 12-10.jpg
+ Triangulate 12-4.jpg and 12-10.jpg
+Triangulating...Done. (189points, 0.0054296s, mean reproj err = 14.482)
+triangulation reproj error 14.482
+156/189 = 82.5397% are in front of camera
+189/189 = 100% are in front of camera
+filtered out 75 high-error points
+104/114 points were found in other views, adding 10 new
+before triangulation: 1471 after 1481
+ -> 12-2.jpg
+ Triangulate 12-4.jpg and 12-2.jpg
+Triangulating...Done. (460points, 0.0129892s, mean reproj err = 30.573)
+triangulation reproj error 30.573
+319/460 = 69.3478% are in front of camera
+Triangulation did not succeed
+======================== Bundle Adjustment ==========================
+N (cams) = 13; M (points) = 1481; K (measurements) = 4584
+intrinsic before bundle = [ 559.003 0 201.251 
+0 559.003 155.98 
+0 0 1 ]
+Read the 3D points.
+Read the cameras.
+Read 4584 valid 2D measurements.
+mean reprojection error (in pixels): 127.594
+K0 = [ 1 0 0.360018 
+0 1 0.279033 
+0 0 1 ]
+optimizer status = 0
+refined K = [ 1.27327 0 0.279966 
+0 1.27327 0.283492 
+0 0 1 ]
+Knew = [ 711.759 0 156.502 
+0 711.759 158.473 
+0 0 1 ]
+mean reprojection error (in pixels): 2.38744
+use new K 
+[711.7593540040737, 0, 156.5018332412798;
+  0, 711.7593540040737, 158.4731546605689;
+  0, 0, 1]
+Creating point cloud...Done. (0.000362965s)
+Creating point cloud...Done. (0.000321689s)
+12-9.jpg: found 518 3d-2d point correspondences
+12-11.jpg: found 441 3d-2d point correspondences
+12-13.jpg: found 130 3d-2d point correspondences
+12-5.jpg: found 379 3d-2d point correspondences
+12-17.jpg: found 439 3d-2d point correspondences
+12-18.jpg: found 225 3d-2d point correspondences
+12-16.jpg: found 484 3d-2d point correspondences
+12-14.jpg: found 227 3d-2d point correspondences
+12-3.jpg: found 211 3d-2d point correspondences
+12-7.jpg: found 216 3d-2d point correspondences
+12-15.jpg: found 118 3d-2d point correspondences
+12-0.jpg: found 156 3d-2d point correspondences
+-------------------------- 12-9.jpg --------------------------
+solvePnPRansac DONE 0.184638s
+not enough inliers to consider a good pose (60/518)
+12-11.jpg: found 441 3d-2d point correspondences
+12-13.jpg: found 130 3d-2d point correspondences
+12-5.jpg: found 379 3d-2d point correspondences
+12-17.jpg: found 439 3d-2d point correspondences
+12-18.jpg: found 225 3d-2d point correspondences
+12-16.jpg: found 484 3d-2d point correspondences
+12-14.jpg: found 227 3d-2d point correspondences
+12-3.jpg: found 211 3d-2d point correspondences
+12-7.jpg: found 216 3d-2d point correspondences
+12-15.jpg: found 118 3d-2d point correspondences
+12-0.jpg: found 156 3d-2d point correspondences
+-------------------------- 12-16.jpg --------------------------
+solvePnPRansac DONE 0.15837s
+found t = [0.9096669483951543; -0.6014456128915622; -0.9437017927370994]
+R = 
+[0.9947346199679957, 0.09564978534157527, 0.03679883695495857;
+  -0.09483630221770011, 0.9952212302472488, -0.02325464785426025;
+  -0.03884728586143571, 0.01964233767307682, 0.99905208420379]
+ -> 12-4.jpg
+ Triangulate 12-16.jpg and 12-4.jpg
+Triangulating...Done. (194points, 0.0057712s, mean reproj err = 2.07926)
+triangulation reproj error 2.07926
+191/194 = 98.4536% are in front of camera
+188/194 = 96.9072% are in front of camera
+filtered out 6 high-error points
+159/188 points were found in other views, adding 29 new
+before triangulation: 1481 after 1510
+ -> 12-8.jpg
+ Triangulate 12-16.jpg and 12-8.jpg
+Triangulating...Done. (316points, 0.00951909s, mean reproj err = 0.911248)
+triangulation reproj error 0.911248
+315/316 = 99.6835% are in front of camera
+314/316 = 99.3671% are in front of camera
+filtered out 3 high-error points
+211/313 points were found in other views, adding 102 new
+before triangulation: 1510 after 1612
+ -> 12-1.jpg
+ Triangulate 12-16.jpg and 12-1.jpg
+Triangulating...Done. (315points, 0.00929811s, mean reproj err = 1.2843)
+triangulation reproj error 1.2843
+313/315 = 99.3651% are in front of camera
+310/315 = 98.4127% are in front of camera
+filtered out 7 high-error points
+247/308 points were found in other views, adding 61 new
+before triangulation: 1612 after 1673
+ -> 12-19.jpg
+ Triangulate 12-16.jpg and 12-19.jpg
+Triangulating...Done. (65points, 0.00195632s, mean reproj err = 7.78101)
+triangulation reproj error 7.78101
+65/65 = 100% are in front of camera
+65/65 = 100% are in front of camera
+filtered out 5 high-error points
+49/60 points were found in other views, adding 11 new
+before triangulation: 1673 after 1684
+ -> 12-10.jpg
+ Triangulate 12-16.jpg and 12-10.jpg
+Triangulating...Done. (19points, 0.000632832s, mean reproj err = 46.1224)
+triangulation reproj error 46.1224
+4/19 = 21.0526% are in front of camera
+Triangulation did not succeed
+ -> 12-2.jpg
+ Triangulate 12-16.jpg and 12-2.jpg
+Triangulating...Done. (312points, 0.00917058s, mean reproj err = 2.3534)
+triangulation reproj error 2.3534
+309/312 = 99.0385% are in front of camera
+305/312 = 97.7564% are in front of camera
+filtered out 13 high-error points
+219/299 points were found in other views, adding 80 new
+before triangulation: 1684 after 1764
+======================== Bundle Adjustment ==========================
+N (cams) = 13; M (points) = 1764; K (measurements) = 5653
+intrinsic before bundle = [ 711.759 0 156.502 
+0 711.759 158.473 
+0 0 1 ]
+Read the 3D points.
+Read the cameras.
+Read 5653 valid 2D measurements.
+mean reprojection error (in pixels): 4.74381
+K0 = [ 1 0 0.21988 
+0 1 0.22265 
+0 0 1 ]

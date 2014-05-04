@@ -1,0 +1,11 @@
+Cloudpoint: 1672
+	                  Loading data	0.061835s
+	            Recreating model..	2.186e-05s
+	                Detect+extract	0.349698s
+-- Max dist : 1.000000 
+-- Min dist : 1.000000 
+874
+	    Finding matches with model	0.0277443s
+	  Finding pose: solvePnPRansac	0.125073s
+ReprojectionError >> [165.251/2] 9.08986
+	               Camera location	1.27345s
