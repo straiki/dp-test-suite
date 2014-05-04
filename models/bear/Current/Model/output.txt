@@ -1,1 +1,0 @@
-/bin/sh: ./CreateModel: No such file or directory
